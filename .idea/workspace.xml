@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca595568-982c-40f5-87d5-5d5ee8f8a7d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/CustomLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/CustomRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/CustomThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/GPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/OperatingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/Port.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/RAM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/calculator/WordCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/enums/ComputerType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/enums/Freshness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/enums/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/enums/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/enums/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/exceptions/NoOneOrTooManyCoresException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/exceptions/NoOneOrTooManyHzException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/exceptions/NoOneOrTooManyInchesException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/exceptions/ZeroOrTooManyCharactersException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/exceptions/ZeroOrTooManyUSDException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/interfaces/IBoost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/interfaces/IConsume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/interfaces/IDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/interfaces/IFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/interfaces/IOperate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/interfaces/IPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/interfaces/ISubstitute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/interfaces/ITurn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solvd/computer/interfaces/IUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/text.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Exception" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oCtD5ZrGkN6Sxp22vFkZt4losq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/tools/IdeaProjects/Homework_2/src/main/java/com/solvd/computer/interfaces&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\tools\IdeaProjects\Homework_2\src\main\java\com\solvd\computer\interfaces" />
+      <recent name="C:\tools\IdeaProjects\Homework_2\src\main\resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca595568-982c-40f5-87d5-5d5ee8f8a7d0" name="Changes" comment="" />
+      <created>1730385263196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730385263196</updated>
+    </task>
+    <servers />
+  </component>
+</project>
